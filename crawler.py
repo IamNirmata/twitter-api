@@ -28,7 +28,7 @@ PASSWD = "sreenath!erdc"
 DATABASE = "smart_gate"
 
 # number of requests are capped to 600000
-limit = 6000000
+limit = 6000001
 
 # Assigning Default geolocation.
 defaultLocation = [-74.4057,40.0583,-74.0060,40.7128]
